@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MGKomik" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.MGKomik.Reader" parent="Theme.MGKomik">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/reader_background</item>
+    </style>
+
+    <style name="Widget.MGKomik.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextColor">@color/on_surface</item>
+        <item name="subtitleTextColor">@color/on_surface_dim</item>
+    </style>
+</resources>

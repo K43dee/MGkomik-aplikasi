@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mgkomik.id</string>
+    <string name="library_title">Perpustakaan Offline</string>
+    <string name="library_empty">Belum ada komik tersimpan.\nBuka chapter di web lalu ketuk ikon download untuk menyimpannya sebagai CBZ.</string>
+    <string name="confirm_delete_series">Hapus “%1$s” beserta semua chapter-nya dari perpustakaan?</string>
+    <string name="reader_error">Gagal membuka berkas</string>
+    <string name="download_chapter">Download Chapter (CBZ)</string>
+    <string name="extracting_images">Mengambil daftar gambar…</string>
+    <string name="downloading">Mengunduh halaman %1$d/%2$d</string>
+    <string name="chapter_saved">Chapter tersimpan ke Perpustakaan</string>
+    <string name="download_failed">Download gagal: %1$s</string>
+    <string name="action_library">Perpustakaan</string>
+    <string name="action_download">Download CBZ</string>
+    <string name="action_share">Bagikan</string>
+    <string name="action_refresh">Muat ulang</string>
+    <string name="action_back">Kembali</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_export">Ekspor</string>
+    <string name="action_prev">Sebelumnya</string>
+    <string name="action_next">Berikutnya</string>
+    <string name="action_open">Buka</string>
+    <string name="action_close">Tutup</string>
+    <string name="action_zoom_in">Perbesar</string>
+    <string name="action_zoom_out">Perkecil</string>
+    <string name="action_reset_zoom">Atur ulang zoom</string>
+    <string name="action_fit_width">Fit lebar</string>
+    <string name="action_fit_page">Fit halaman</string>
+    <string name="no_images_found">Tidak ada gambar ditemukan di halaman ini. Pastikan halaman chapter sudah terbuka dan gambar sudah dimuat.</string>
+    <string name="confirm_delete">Hapus “%1$s” dari perpustakaan?</string>
+    <string name="export_done">Diekspor ke %1$s</string>
+    <string name="export_failed">Ekspor gagal: %1$s</string>
+    <string name="network_error">Tidak ada koneksi internet.</string>
+    <string name="loading">Memuat…</string>
+    <string name="blocked_count_hint">%1$d iklan diblokir</string>
+    <string name="action_import">Impor CBZ</string>
+    <string name="import_failed">Impor gagal: %1$s</string>
+</resources>
